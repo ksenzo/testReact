@@ -1,0 +1,85 @@
+.form {
+    width: 262px;
+    margin-top: 25px;
+}
+
+.row {
+    margin: 0 !important;
+}
+
+.select {
+    max-width: 250px !important;
+}
+
+.select__active {
+    border: 1px solid #e70000;
+}
+
+.required {
+    font-size: 9px;
+    vertical-align: super;
+    color: #e73a3a;
+}
+
+.css-1s2u09g-control {
+    border-radius: 4px !important;
+    border: 1px solid #000 !important;
+}
+
+.wrpa_selects {
+    position: relative;
+    padding: 50px 6px 40px 6px;
+}
+
+.box_selects {
+    border-radius: 7px;
+    background: #393939;
+}
+
+.label {
+    color: #8bcaff;
+}
+
+.title {
+    position: absolute;
+    max-width: 100%;
+    color: #8bcaff;
+    left: 0;
+    top: 20px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.footer {
+    padding-bottom: 40px;
+    max-width: 790px;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+}
+
+.input {
+    width: 80%;
+    padding: 9px;
+    background: #fff;
+    border-radius: 4px;
+}
+
+input {
+    width: 100%;
+    border: none;
+    outline: none;
+    background: #fff;
+}
+
+button {
+    width: 20%;
+    margin-left: 20px;
+    border-radius: 5px;
+    background: #8bcaff;
+    color: black;
+    border: 1px solid #000;
+    font-size: 16px;
+    padding: 10px 0;
+    text-align: center;
+}
